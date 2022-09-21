@@ -1,0 +1,12 @@
+.pagination-btn {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+
+.pagination-btn:hover,
+.pagination-btn:focus {
+  text-decoration: underline;
+}
